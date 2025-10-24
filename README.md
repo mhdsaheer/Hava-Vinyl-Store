@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+Vinyl Vibes – Mini E-Commerce Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A sleek and responsive vinyl record store built from scratch using React.js. Designed and developed as part of the 3R Creative Machine Test, this project blends modern UI/UX design with smooth animations and functional product handling.
 
-## Available Scripts
+🛠️ Tech Stack
 
-In the project directory, you can run:
+React.js (Functional Components + Hooks)
 
-### `npm start`
+React Router DOM for navigation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+AOS for animations
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Tailwind CSS for responsive design
 
-### `npm test`
+📄 Pages
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Home Page – Hero banner, featured products, and engaging scroll/hover animations.
 
-### `npm run build`
+Product Listing – Displays a grid of vinyl discs with images, titles, and prices.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Product Details – Detailed view with description, “Add to Cart,” and animations.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Cart Page – Manage items, adjust quantities, and view total price dynamically.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+💡 Highlights
 
-### `npm run eject`
+Clean, minimal, and music-themed UI inspired by vintage vinyl aesthetics.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Smooth animations for page transitions and product interactions.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Fully responsive design optimized for all devices.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🌐 Links
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🎨 Figma Design: https://www.figma.com/design/rEFLVKnvLhRnrPyJtC15Y0/hava---Vinyl-Store?node-id=0-1&t=qV6kMJqCs8LDGchq-1
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🚀 Live Demo: https://hava-store-git-main-muhammed-saheers-projects.vercel.app/
